@@ -1,0 +1,14 @@
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\opdracht_opsplitsing_euro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\opdracht_opsplitsing_euro.AssemblyInfoInputs.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\opdracht_opsplitsing_euro.AssemblyInfo.cs
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\opdracht_opsplitsing_euro.csproj.CoreCompileInputs.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\bin\Debug\net8.0\opdracht_opsplitsing_euro.exe
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\bin\Debug\net8.0\opdracht_opsplitsing_euro.deps.json
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\bin\Debug\net8.0\opdracht_opsplitsing_euro.runtimeconfig.json
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\bin\Debug\net8.0\opdracht_opsplitsing_euro.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\bin\Debug\net8.0\opdracht_opsplitsing_euro.pdb
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\opdracht_opsplitsing_euro.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\refint\opdracht_opsplitsing_euro.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\opdracht_opsplitsing_euro.pdb
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\opdracht_opsplitsing_euro.genruntimeconfig.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\opdracht_opsplitsing_euro\obj\Debug\net8.0\ref\opdracht_opsplitsing_euro.dll
